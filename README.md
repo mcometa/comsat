@@ -3,6 +3,6 @@ comsat
 
 Comsat, jQuery plugin to show/hide the value of the password field.
 
-### sites using comsat
+### Sites Using Comsat
 
-MatchMove - [mmvpay.com](https://sg.mmvpay.com/registration/signup)
+MatchMove Signup Form - [mmvpay.com](https://sg.mmvpay.com/registration/signup)
